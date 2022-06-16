@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    background: white;
+    color: blue;
+}
+
+header h1 {
+    font-size: 200%;
+    background-color: white;
+    border-style: solid;
+    padding: 2%;
+}
+.navbar-header {
+    list-style-type: none;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.navbar-header li{
+    display: inline-block;
+    padding: 20px;
+}
